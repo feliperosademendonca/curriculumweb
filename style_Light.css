@@ -1,0 +1,73 @@
+:root {
+  --color-text: #fff;
+  --bg: #eeeeee;
+  --color-primary: #0477bf;
+  --color-secondary: #0098d7;
+  --color-accent: #fcd900;
+  --color-highlight: #e2bd00;
+  --color-danger: #d92b04;
+}
+
+header {
+  background-image: url("./headebg.jpg");
+  background-position: top;
+  background-size: auto;
+  background-attachment: fixed;
+  background-color: var(--bg);
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+#tudoHeader {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: flex-start;
+  margin: 0px 8%;
+}
+
+header #conteinerHeaderTop {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  justify-items: center;
+  align-items: flex-start;
+  background-color: var(--color-primary);
+  margin: 5px 0px;
+  padding: 0px 10px;
+}
+
+#topheaderConteiner {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  justify-items: center;
+  /*background-color: red;*/
+}
+
+header #conteinerHeaderTop img {
+  width: 50px;
+  height: 50px;
+  background-color: var(--color-accent);
+}
+
+header #conteinerHeaderBotton {
+  font-size: 14px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  justify-items: center;
+  background-color: red;
+  margin: 5px 0px;
+  padding: 0px 10px;
+}
+
+section {
+  margin: 8%;
+}
