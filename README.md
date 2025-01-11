@@ -19,7 +19,7 @@ Vercel para hospedagem do site.
   
 <h1>🚀 Como Visualizar</h1>
 Acesse a versão online:
-<a href="https://feliperosademendonca.github.io/curriculumweb">aAcesse meu currículo online aqui: https://feliperosademendonca.github.io/curriculumweb/</a>
+<a href="https://feliperosademendonca.github.io/curriculumweb">Acesse meu currículo online aqui: https://feliperosademendonca.github.io/curriculumweb/</a>
 </p>
 
 <h1>📂 Estrutura do Projeto</h1>
