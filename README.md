@@ -26,16 +26,9 @@ Acesse a versão online:
 
 curriculo-web/  
 │  
-├── public/  
-│   ├── index.html       # Arquivo principal  
-│   ├── assets/          # Imagens e outros recursos estáticos  
-│  
-├── src/  
-│   ├── components/      # Componentes React (caso aplicável)  
-│   ├── styles/          # Estilos personalizados  
-│   ├── App.js           # Arquivo principal da aplicação React  
-│  
-├── README.md            # Documentação do repositório  
+├── index.html       # Arquivo principal  
+│  scripts.js
+├── img/          # Imagens e outros recursos estáticos  
 └──package.json         # Dependências e configurações do projeto (React)  
  
 <h1>📄 Licença</h1>
