@@ -24,11 +24,11 @@ Acesse a versão online:
 
 <h1>📂 Estrutura do Projeto</h1>
 
-curriculo-web/\n  
-│ \n
-├── index.html\n     
-├── scripts.js\n
-└── img/         
+curriculo-web/  
+│    
+├── index.html         
+├── img/            
+└── scripts.js         
 
 <h1>📄 Licença</h1>
 Este projeto está sob a licença MIT. Sinta-se à vontade para usar como base para seus próprios projetos.
