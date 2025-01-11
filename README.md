@@ -1,8 +1,12 @@
-<h1>Currículo Web 🚀<h1>
+<h1>Currículo Web 🚀</h1>
+
+<p>
 Este repositório contém meu currículo online desenvolvido como parte do meu portfólio. 
 Ele serve como um hub para minhas informações profissionais, habilidades técnicas e projetos, oferecendo uma interface interativa e moderna para recrutadores e interessados.
+</p>
 
-📋 Funcionalidades
+<p>
+<h1>📋 Funcionalidades</h1>
 Exibição de informações pessoais e profissionais.
 Listagem de projetos com links para repositórios e demonstrações ao vivo.
 Design responsivo para acesso em dispositivos móveis, tablets e desktops.
@@ -13,30 +17,14 @@ JavaScript para interatividade.
 React (opcional, se for usado) para componentes dinâmicos.
 Tailwind CSS ou Bootstrap (se aplicável) para estilização.
 Vercel ou Netlify (se aplicável) para hospedagem do site.
-🚀 Como Visualizar
+  
+<h1>🚀 Como Visualizar</h1>
 Acesse a versão online:
 Acesse meu currículo online aqui
+</p>
 
-Para rodar localmente:
-Clone este repositório:
-
-bash
-Copiar código
-git clone https://github.com/seu-usuario/curriculo-web.git  
-Navegue até a pasta do projeto:
-
-bash
-Copiar código
-cd curriculo-web  
-Abra o arquivo index.html diretamente no navegador (para projetos simples) ou, caso esteja usando React:
-
-bash
-Copiar código
-npm install  
-npm start  
-📂 Estrutura do Projeto
-plaintext
-Copiar código
+<h1>📂 Estrutura do Projeto</h1>
+<p>
 curriculo-web/  
 │  
 ├── public/  
@@ -51,7 +39,6 @@ curriculo-web/
 ├── README.md            # Documentação do repositório  
 ├── package.json         # Dependências e configurações do projeto (React)  
 └── ...  
-📄 Licença
+</p>
+<h1>📄 Licença</h1>
 Este projeto está sob a licença MIT. Sinta-se à vontade para usar como base para seus próprios projetos.
-
-Com isso, você terá um README claro e atraente. Pode personalizar conforme suas preferências ou adicionar seções extras, como "Screenshots" ou "Próximos Passos".
