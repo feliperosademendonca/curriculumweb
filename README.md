@@ -24,10 +24,10 @@ Acesse a versão online:
 
 <h1>📂 Estrutura do Projeto</h1>
 
-curriculo-web/  
-│ 
-├── index.html     
-├── scripts.js
+curriculo-web/\n  
+│ \n
+├── index.html\n     
+├── scripts.js\n
 └── img/         
 
 <h1>📄 Licença</h1>
