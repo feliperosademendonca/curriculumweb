@@ -25,7 +25,7 @@ Acesse a versão online:
 <h1>📂 Estrutura do Projeto</h1>
 
 curriculo-web/  
-│  
+│ 
 ├── index.html       # Arquivo principal  
 │  scripts.js
 ├── img/          # Imagens e outros recursos estáticos  
