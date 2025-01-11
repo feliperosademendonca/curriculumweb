@@ -11,20 +11,19 @@ Exibição de informações pessoais e profissionais.
 Listagem de projetos com links para repositórios e demonstrações ao vivo.
 Design responsivo para acesso em dispositivos móveis, tablets e desktops.
 Integração com LinkedIn e GitHub para acesso rápido aos meus perfis.
-🛠️ Tecnologias Utilizadas
+  
+<h1>🛠️ Tecnologias Utilizadas</h1>
 HTML5 e CSS3 para estrutura e estilização.
 JavaScript para interatividade.
-React (opcional, se for usado) para componentes dinâmicos.
-Tailwind CSS ou Bootstrap (se aplicável) para estilização.
-Vercel ou Netlify (se aplicável) para hospedagem do site.
+Vercel para hospedagem do site.
   
 <h1>🚀 Como Visualizar</h1>
 Acesse a versão online:
-Acesse meu currículo online aqui
+<a href="https://feliperosademendonca.github.io/curriculumweb">aAcesse meu currículo online aqui: https://feliperosademendonca.github.io/curriculumweb/</a>
 </p>
 
 <h1>📂 Estrutura do Projeto</h1>
-<p>
+
 curriculo-web/  
 │  
 ├── public/  
@@ -37,8 +36,7 @@ curriculo-web/
 │   ├── App.js           # Arquivo principal da aplicação React  
 │  
 ├── README.md            # Documentação do repositório  
-├── package.json         # Dependências e configurações do projeto (React)  
-└── ...  
-</p>
+└──package.json         # Dependências e configurações do projeto (React)  
+ 
 <h1>📄 Licença</h1>
 Este projeto está sob a licença MIT. Sinta-se à vontade para usar como base para seus próprios projetos.
