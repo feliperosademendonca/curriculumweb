@@ -1,4 +1,4 @@
-##Currículo Web 🚀
+<h1>Currículo Web 🚀<h1>
 Este repositório contém meu currículo online desenvolvido como parte do meu portfólio. 
 Ele serve como um hub para minhas informações profissionais, habilidades técnicas e projetos, oferecendo uma interface interativa e moderna para recrutadores e interessados.
 
