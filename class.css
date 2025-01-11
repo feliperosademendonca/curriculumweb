@@ -1,0 +1,15 @@
+.content {
+  padding: 5px;
+}
+
+.shadow {
+  box-shadow: var(--shadow) 1px 8px 9px 7px;
+}
+
+.margin {
+  margin: 15px;
+}
+
+.border {
+  border: 5px solid var(--color-primary);
+}
