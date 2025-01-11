@@ -26,10 +26,9 @@ Acesse a versão online:
 
 curriculo-web/  
 │ 
-├── index.html       # Arquivo principal  
-│  scripts.js
-├── img/          # Imagens e outros recursos estáticos  
-└──package.json         # Dependências e configurações do projeto (React)  
- 
+├── index.html     
+├── scripts.js
+└── img/         
+
 <h1>📄 Licença</h1>
 Este projeto está sob a licença MIT. Sinta-se à vontade para usar como base para seus próprios projetos.
